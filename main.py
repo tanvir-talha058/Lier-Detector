@@ -9,6 +9,7 @@ import numpy as np
 import os
 from tkinter import ttk  # Import themed tkinter
 
+
 # Scoring system (for demonstration only)
 truth_likelihood = {
     "happy": 0.9,
